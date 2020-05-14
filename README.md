@@ -9,6 +9,5 @@ Práctica:
 - Promesas con 'async/await'
 - Estilos con @emotion/styled
 
-```
-npm install
-```
+## Ejemplo
+![](recorte-breakingbad.PNG)
